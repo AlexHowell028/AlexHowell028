@@ -1,6 +1,7 @@
 ### Alex Howell
-I'm from Aurora Illinois
-alexhowell2828@gmail.com
+<p> I'm from Aurora Illinois <p>
+  
+<p> alexhowell2828@gmail.com <p>
 <!--
 **AlexHowell028/AlexHowell028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
