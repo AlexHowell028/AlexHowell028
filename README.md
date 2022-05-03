@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Alex Howell
+I'm from Aurora Illinois
+alexhowell2828@gmail.com
 <!--
 **AlexHowell028/AlexHowell028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
